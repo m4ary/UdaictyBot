@@ -3,22 +3,29 @@
 `UdacityBot`is a Telegram Bot for Control your Udacity Mentor Dashboard
 <img src="https://github.com/m4ary/UdaictyBot/blob/master/demo.gif?raw=true" alt="screenshot" width="220" align="right">
 
+## :sparkles: Features
+- Check if you have any projects wait for review
+- Get your total earning since specific month and year.
+- Exit from queue to review all your projects.
+- Join queue to review all your projects.
+- Get current queue status
+- Refresh queue to review all your projects
 
 ---
 
 ## :joystick: Public Bot  
-you can start using the Bot from here
+You can start using the Bot from here
 https://t.me/udacitybot
 
 ---
-## :zap: deploy your own
+## :zap: Deploy your own
 
 ### Requirements
 - Telegram Bot Token ([create yours](https://core.telegram.org/bots#3-how-do-i-create-a-bot))
 - JVM 1.8
 
 ### How to:
-1. replace`YOUR_BOT_TOKEN`in`Consts`Java Class with your token bot token.
+1. Replace`YOUR_BOT_TOKEN`in`Consts`Java Class with your token bot token.
 
 ---
 ## :globe_with_meridians: Contributing 
